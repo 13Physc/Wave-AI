@@ -1,0 +1,5 @@
+{
+  "name": "Wave Data Visualizer & Analyzer",
+  "description": "An application to upload, visualize, and filter wave data from a CSV file. Uses the Gemini API to perform an advanced analysis of wave power and conditions.",
+  "requestFramePermissions": []
+}
